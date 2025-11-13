@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Tutor for Kids",
+  "description": "An interactive AI tutor that generates adaptive exams, provides real-time feedback, and offers voice-based explanations to help kids learn and grow their critical thinking skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
